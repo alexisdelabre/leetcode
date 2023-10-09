@@ -8,6 +8,5 @@ def climbStairs(n):
 
 # Test
 print(climbStairs(2))  # Output: 2
-print(climbStairs(10))  # Output: 3
 
 
